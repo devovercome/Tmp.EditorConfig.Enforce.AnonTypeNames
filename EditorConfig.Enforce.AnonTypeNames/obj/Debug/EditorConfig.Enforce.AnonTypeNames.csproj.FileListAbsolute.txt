@@ -1,0 +1,7 @@
+c:\users\gray\source\repos\EditorConfig.Enforce.AnonTypeNames\EditorConfig.Enforce.AnonTypeNames\bin\Debug\EditorConfig.Enforce.AnonTypeNames.exe.config
+c:\users\gray\source\repos\EditorConfig.Enforce.AnonTypeNames\EditorConfig.Enforce.AnonTypeNames\bin\Debug\EditorConfig.Enforce.AnonTypeNames.exe
+c:\users\gray\source\repos\EditorConfig.Enforce.AnonTypeNames\EditorConfig.Enforce.AnonTypeNames\bin\Debug\EditorConfig.Enforce.AnonTypeNames.pdb
+c:\users\gray\source\repos\EditorConfig.Enforce.AnonTypeNames\EditorConfig.Enforce.AnonTypeNames\obj\Debug\EditorConfig.Enforce.AnonTypeNames.csprojResolveAssemblyReference.cache
+c:\users\gray\source\repos\EditorConfig.Enforce.AnonTypeNames\EditorConfig.Enforce.AnonTypeNames\obj\Debug\EditorConfig.Enforce.AnonTypeNames.csproj.CoreCompileInputs.cache
+c:\users\gray\source\repos\EditorConfig.Enforce.AnonTypeNames\EditorConfig.Enforce.AnonTypeNames\obj\Debug\EditorConfig.Enforce.AnonTypeNames.exe
+c:\users\gray\source\repos\EditorConfig.Enforce.AnonTypeNames\EditorConfig.Enforce.AnonTypeNames\obj\Debug\EditorConfig.Enforce.AnonTypeNames.pdb
